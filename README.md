@@ -1,13 +1,8 @@
-# ChewCraft Discord
+# Chew's Discord
 Discord Information. 
 
 Check the Wiki for information!
 
-Discord Link: http://discord.chewcraft.me
+Discord Invite: https://discord.gg/0kYlxgkh65QhZAjm
 
-Copy-Friendly Discord Link: https://discordapp.com/invite/0kYlxgkh65QhZAjm
-
-Or another for a friend: https://discord.gg/0kYlxgkh65QhZAjm
-
-Need one thats easily memorised? http://discord.me/chewcraft
-
+![online](https://discordapp.com/api/guilds/134445052805120001/widget.png)
