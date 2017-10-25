@@ -1,11 +1,12 @@
-# Chew's Discord
+# Chew's Discord Server
 
-# Articles have been moved to http://help.chewcraft.me/category/4-discord
-
-![online](https://discordapp.com/api/guilds/134445052805120001/widget.png)
+[![online](https://discordapp.com/api/guilds/134445052805120001/widget.png)](https://discord.gg/0kYlxgkh65QhZAjm)
 
 Discord Information. 
 
-Check the Wiki for information!
+[View the rules!](info/Rules)
 
-Discord Invite: https://discord.gg/0kYlxgkh65QhZAjm
+[View FAQ](info/FAQ)
+
+[View Role Information](info/Roles)
+
