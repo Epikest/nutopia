@@ -4,9 +4,10 @@
 
 Discord Information. 
 
-[View the rules!](info/Rules)
+[View the rules!](rules)
 
-[View FAQ](info/FAQ)
+[View FAQ](faq)
 
-[View Role Information](info/Roles)
+[View Role Information](ranks)
 
+[View User Modes Info](modes)
