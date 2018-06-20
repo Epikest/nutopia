@@ -2,7 +2,7 @@
 
 2) Respect Discord Staff, they are there to make the discord a fun and safe place to hang out!
 
-3) Don't abuse bots! (They have role +B and Bot tag)
+3) Don't abuse bots! (They have mode +B and Bot tag)
 
 4) Before you ask anything in #discussions, please check [FAQ](FAQ) and #information before you do so, it will not only save your time, but ours too!
 
@@ -25,3 +25,5 @@
 13) When you change your nickname, you agree to these terms: 
 - a) I am able to remove your nickname and remove your permissions to change them at any time.
 - b) The nickname is family-friendly.
+
+14) Absolutely no NSFW outside of #mature-chatroom. Instant, permanent ban.
