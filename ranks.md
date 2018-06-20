@@ -12,4 +12,4 @@ Ops (+o) - This role is for trusted individuals who aren't quite ready to run a 
 
 Half-Ops (+h) - This role is generally for Ops-in-training.
 
-Voiced (+v) - All bots have this role (at minimum), this is a "special" role that doesn't give any perms.
+Voiced (+v) - This is a "special" role that doesn't give any perms.
