@@ -19,4 +19,4 @@ A: Just in #discussions will do.
 A: It is mc.cloudcitymc.us! Check out the website. http://cloudcitymc.us
 
 ### Q: How do I follow you on mixer?
-A: Simple! Make a beam account and follow me here: http://mixer.com/Chew
+A: Simple! Make a Mixer account and follow me here: http://mixer.com/Chew
