@@ -15,3 +15,4 @@ Mode | Description
 +m | Gives this user access to #music, given to any members of the Music Room voice channel.
 +e | Gives the user access to external emotes
 +w | Gives the user ability to modify webhooks.
++n | Hides the #mature-chatroom from the user.
