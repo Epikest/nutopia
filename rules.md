@@ -4,7 +4,7 @@
 
 3) Don't abuse bots! (They have mode +B and Bot tag)
 
-4) Before you ask anything in #discussions, please check [FAQ](FAQ) and #information before you do so, it will not only save your time, but ours too!
+4) Before you ask anything in #discussions, please check [FAQ](faq) and #information before you do so, it will not only save your time, but ours too!
 
 5) No swearing!
 
@@ -22,7 +22,7 @@
 
 12) Do not mention @everyone for no reason. That's why it's disabled.
 
-13) When you change your nickname, you agree to these terms: 
+13) When you change your nickname, you agree to these terms:
 - a) I am able to remove your nickname and remove your permissions to change them at any time.
 - b) The nickname is family-friendly.
 
