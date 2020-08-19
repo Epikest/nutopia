@@ -1,3 +1,11 @@
+---
+layout: default
+title: Ranks
+descriptions: The ranks and their explanations
+---
+
+# Ranks
+
 Here the Discord Ranks will be listed and described:
 
 The roles are based off of IRC roles.

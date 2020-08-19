@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+{% include header.html %}
+<body style="background-color: #7289DA;">
+<header></header>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" href="/">Chew's Discord</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link {% if page.title contains "Home" %}active disabled{% endif %}" href="/"><i class="fas fa-home"></i> Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link {% if page.title contains "Rules" %}active disabled{% endif %}" href="/rules"><i class="fas fa-scroll"></i> Rules</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link {% if page.title contains "FAQ" %}active disabled{% endif %}" href="/faq"><i class="fas fa-question"></i> FAQ</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link {% if page.title contains "Ranks" %}active disabled{% endif %}" href="/ranks"><i class="fas fa-user"></i> Ranks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link {% if page.title contains "Modes" %}active disabled{% endif %}" href="/modes"><i class="fas fa-plus"></i> Modes</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="https://discord.gg/0kYlxgkh65QhZAjm"><i class="fab fa-discord"></i> Join Server</a>
+                </li>
+            </ul>
+            <hr/>
+            <ul class="navbar-nav mr-right">
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="https://github.com/Chew/Discord"><i class="fab fa-github"></i> GitHub</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container" style="margin-top: 20px;">
+    <div class="jumbotron">{{ content }}</div>
+</div>
+<script src="https://unpkg.com/bootstrap-table@1.15.5/dist/bootstrap-table.min.js"></script>
+</body>
+</html>

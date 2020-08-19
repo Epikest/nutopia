@@ -1,3 +1,9 @@
+---
+layout: default
+title: Modes
+description: The possible modes a user/channel may have!
+---
+
 # User Modes
 
 What is a usermode?

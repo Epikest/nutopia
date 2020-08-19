@@ -1,3 +1,11 @@
+---
+layout: default
+title: Rules
+description: The server rules, make sure to follow!
+---
+
+# Rules
+
 1) Ask Ops/Admins or Chew for help (they should know what to do).
 
 2) Respect Discord Staff, they are there to make the discord a fun and safe place to hang out!

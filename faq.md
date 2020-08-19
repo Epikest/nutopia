@@ -1,3 +1,8 @@
+---
+layout: default
+title: FAQ
+---
+
 # FAQ
 
 ### Q: Where can I suggest things?
