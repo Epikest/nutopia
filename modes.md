@@ -19,3 +19,8 @@ Usermodes grant users specific perms or designate a status or perk.
 | +w   | Gives the user ability to modify webhooks.                                                   |
 | +n   | Hides the #mature-chatroom from the user.                                                    |
 | +r   | Gives the user access to Manage Roles                                                        |
+
+<script>
+$('table').addClass('table table-striped table-bordered table-hover');
+$('thead').addClass('thead-dark');
+</script>
