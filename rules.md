@@ -18,20 +18,18 @@ description: The server rules, make sure to follow!
 
 6) Do not advertise, advertising is a cheap way to get to the top, please don't do so on this server! This goes for discord links as well as YouTube links.
 
-7) Do not bring bots in without permission. Please ask first.
+7) Do NOT ask to be a staff member! We will instantly decline and we won't be happy with you!
 
-8) Do NOT ask to be a staff member on the discord! We will instantly decline and we won't be happy with you!
+8) Do not impersonate anyone!
 
-9) Do not impersonate anyone!
+9) Do not spam the chat!
 
-10) Do not spam the chat!
+10) Do not send duplicate messages, this is spam and not acceptable.
 
-11) Do not send duplicate messages, this is spam and not acceptable.
+11) Do not mention @everyone for no reason. That's why it's disabled.
 
-12) Do not mention @everyone for no reason. That's why it's disabled.
-
-13) When you change your nickname, you agree to these terms:
-- a) I am able to remove your nickname and remove your permissions to change them at any time.
+12) When you change your nickname, you agree to these terms:
+- a) The nickname and your ability to set it can be revoked at any time.
 - b) The nickname is family-friendly.
 
-14) Absolutely no NSFW outside of #mature-chatroom. Instant, permanent ban.
+13) Absolutely no NSFW. Instant, permanent ban.
