@@ -1,13 +1,3 @@
-# Chew's Discord Server
+# Chew's Discord Information Repository
 
-[![online](https://discordapp.com/api/guilds/134445052805120001/widget.png)](https://discord.gg/0kYlxgkh65QhZAjm)
-
-Discord Information. 
-
-[View the rules!](rules)
-
-[View FAQ](faq)
-
-[View Role Information](ranks)
-
-[View User Modes Info](modes)
+OwO? jk i aint a weeb, but you might be, either way hop on over to [discord.chew.pro](https://discord.chew.pro)!
