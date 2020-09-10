@@ -10,7 +10,7 @@ description: The server rules, make sure to follow!
 
 2) Respect Discord Staff, they are there to make the discord a fun and safe place to hang out!
 
-3) Don't abuse bots! (They have mode +B and Bot tag)
+3) Don't abuse bots outside of #bots! Once in a while is ok but if you want to spam or test please use #bots.
 
 4) Before you ask anything in #discussions, please check [FAQ](faq) and #information before you do so, it will not only save your time, but ours too!
 
@@ -24,9 +24,9 @@ description: The server rules, make sure to follow!
 
 9) Do not spam the chat!
 
-10) Do not send duplicate messages, this is spam and not acceptable.
+10) Do not send duplicate messages, this is considered spam and is not acceptable.
 
-11) Do not mention @everyone for no reason. That's why it's disabled.
+11) Do not attempt to mention @everyone or @here. It's disabled for a reason.
 
 12) When you change your nickname, you agree to these terms:
 - a) The nickname and your ability to set it can be revoked at any time.
