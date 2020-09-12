@@ -25,6 +25,7 @@ You can view your user modes at any time with `;umode`.
 | +w   | Gives the user ability to modify webhooks.                                                   |
 | +n   | Hides "unimportant" channels (any with +M set but without +i set)                            |
 | +r   | Gives the user access to Manage Roles                                                        |
+| +b   | Designates user as a "Server Booster"                                                        |
 
 ## Channel Modes
 
