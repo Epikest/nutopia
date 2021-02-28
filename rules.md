@@ -6,24 +6,24 @@ description: The server rules, make sure to follow!
 
 # Rules
 
-1) Respect Discord Staff, they are there to make the discord a fun and safe place to hang out!
+These rules are designed to keep the servers friendly and welcoming.
 
-2) Don't abuse bots outside of #bots! Once in a while is ok but if you want to spam or test please use #bots.
+*A lot of the [PaperMC Community Guidelines](https://papermc.io/community-guidelines) apply here. There are a few additions:*
 
-3) No swearing!
+1) Don't abuse bots outside of #bot-usage! Once in a while is ok, but please use #bot-usage if you want to spam or test, please use #bots.
 
-4) Do not advertise, advertising is a cheap way to get to the top, please don't do so on this server! This goes for discord links as well as YouTube links.
+2) Avoid swearing unless necessary.
 
-5) Do NOT ask to be a staff member! We will instantly decline and we won't be happy with you!
+3) Do not advertise. This goes for server invite links as well as YouTube links.
 
-6) Do not impersonate anyone!
+4) Do not impersonate anyone!
 
-7) Do not spam the chat!
+5) Do not spam the chat!
 
-8) Do not send duplicate messages, this is considered spam and is not acceptable.
+6) Do not send duplicate messages. This is considered spam and is not acceptable.
 
-9) Do not attempt to mention @everyone or @here. It's disabled for a reason.
+7) No inappropriate usernames or avatars.
 
-10) No inappropriate usernames or avatars.
+8) Absolutely no NSFW. Instant, permanent ban.
 
-11) Absolutely no NSFW. Instant, permanent ban.
+9) No harassing other users for any reason.
