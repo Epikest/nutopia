@@ -6,13 +6,15 @@ description: The possible modes a user/channel may have!
 
 # Modes
 
-Modes distinguish specific users or channels, and help tell what they're for or what powers they posses.
+Modes distinguish specific users or channels and help tell what they're for or what powers they hold.
+
 Each user and channel mode are listed below.
 
 ## User Modes
 
 User modes grant users specific perms or designate a status or perk. 
-You can view your user modes at any time with `;umode`.
+
+On Discord, you can view your user modes at any time by running `;umode`.
 
 | Mode | Description                                                                                  |
 | ---- | -------------------------------------------------------------------------------------------- |
