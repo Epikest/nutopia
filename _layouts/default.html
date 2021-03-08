@@ -38,8 +38,16 @@
 <div class="container" style="margin-top: 20px;">
     <div class="jumbotron">{{ content }}</div>
         <style>
-            body {
-            background-color: #7289da;
+            .jumbotron {
+                padding: $jumbotron-padding ($jumbotron-padding / 2);
+                margin-bottom: $jumbotron-padding;
+                color: #7289da;
+                background-color: $jumbotron-bg;
+                @include border-radius($border-radius-lg);
+            
+                @include media-breakpoint-up(sm) {
+                    padding: ($jumbotron-padding * 2) $jumbotron-padding;
+                }
             }
         </style>
 </div>
