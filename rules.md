@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Rules
-description: The server rules, make sure to follow!
+title: rules
+description: in-game rules
 ---
 
 # rules
