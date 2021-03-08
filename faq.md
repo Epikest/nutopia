@@ -3,9 +3,7 @@ layout: default
 title: FAQ
 ---
 
-# FAQ
+# faq
 
-### Q: how do i join?
-A: join the discord, there are instructions there
-
-
+### how do i join?
+join the discord server, there are instructions there.
