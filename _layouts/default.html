@@ -7,57 +7,11 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
         <style>
-            .navbar-dark {
-              .navbar-brand {
-                color: #7289da;
-
-                @include hover-focus() {
-                  color: $navbar-dark-brand-hover-color;
+            @mixin bg-variant($parent, $color, $ignore-warning: false) {
+                #{$parent} {
+                background-color: #7289da !important;
                 }
-              }
-
-              .navbar-nav {
-                .nav-link {
-                  color: $navbar-dark-color;
-
-                  @include hover-focus() {
-                    color: $navbar-dark-hover-color;
-                  }
-
-                  &.disabled {
-                    color: $navbar-dark-disabled-color;
-                  }
-                }
-
-                .show > .nav-link,
-                .active > .nav-link,
-                .nav-link.show,
-                .nav-link.active {
-                  color: $navbar-dark-active-color;
-                }
-              }
-
-              .navbar-toggler {
-                color: $navbar-dark-color;
-                border-color: $navbar-dark-toggler-border-color;
-              }
-
-              .navbar-toggler-icon {
-                background-image: escape-svg($navbar-dark-toggler-icon-bg);
-              }
-
-              .navbar-text {
-                color: $navbar-dark-color;
-                a {
-                  color: $navbar-dark-active-color;
-
-                  @include hover-focus() {
-                    color: $navbar-dark-active-color;
-                  }
-                }
-              }
             }
-
         </style>
         <a class="navbar-brand" href="/">nutopia</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
