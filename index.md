@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Home
-description: The Home Page
+title: home
+description: about nutopia
 ---
 
 # nutopia
