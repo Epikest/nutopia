@@ -1,6 +1,7 @@
 ---
 layout: default
 title: faq
+description: frequently asked questions
 ---
 
 # faq
