@@ -103,7 +103,7 @@ description: frequently asked questions
       ```
 - what does the vanilla map look like?
   - here is what the vanilla map looked like before any players joined:
-    ![nutopia shadows](https://cdn.discordapp.com/attachments/806945046531407952/815411490550579200/unknown.png)
+![nutopia shadows](https://cdn.discordapp.com/attachments/806945046531407952/815411490550579200/unknown.png)
 - what are all the gameplay scenarios?
   - currently, these are all the available scenarios:
     - upside down (world is flipped, sky islands in hell)
