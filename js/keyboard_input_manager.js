@@ -52,7 +52,7 @@ KeyboardInputManager.prototype.listen = function () {
   // Respond to direction keys
   document.addEventListener("keydown", function (event) {
     var modifiers = event.altKey || event.ctrlKey || event.metaKey ||
-        event.shiftKey;
+                    event.shiftKey;
     var mapped    = map[event.which];
 
     if (!modifiers) {
@@ -65,11 +65,6 @@ KeyboardInputManager.prototype.listen = function () {
     // R key restarts the game
     if (!modifiers && event.which === 82) {
       self.restart.call(self, event);
-    }
-
-    // Ctrl/Cmd + Z to undo last move
-    if (event.which === 90 && (event.ctrlKey || event.metaKey)) {
-      self.undo.call(self, event);
     }
   });
 
@@ -146,9 +141,4 @@ KeyboardInputManager.prototype.bindButtonPress = function (selector, fn) {
   var button = document.querySelector(selector);
   button.addEventListener("click", fn.bind(this));
   button.addEventListener(this.eventTouchend, fn.bind(this));
-};
-
-KeyboardInputManager.prototype.undo = function (event) {
-  event.preventDefault();
-  this.emit("undo");
 };
